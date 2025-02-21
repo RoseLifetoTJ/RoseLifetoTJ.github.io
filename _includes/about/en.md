@@ -1,5 +1,5 @@
-Hey, I am labixiong, computer enthusiast.
+Hey, I am ZhiyongXiao, a R language and Python amateur.
 
-Graduated from both non-graduates, now living in Hangzhou, a front-end practitioner.
+Graduated from Southern Medical University in 2025 with a Bachelor's in Health Management, seeking a job now.
 
-Daily haunt on [Weibo](https://weibo.com/u/6324958995), [Zhihu](https://www.zhihu.com/people/roselife-4), [Bilibili](https://space.bilibili.com/687619573), [Github](https://github.com/labixiong), [Juejin](https://juejin.cn/user/3334169355356045), etc.
+Daily haunt on [Weread](https://weread.qq.com/), [Bilibili](https://space.bilibili.com/1864771987?spm_id_from=333.1007.0.0), [Github](https://github.com/Zhiyong-Xiao), etc.

@@ -1,7 +1,7 @@
-Hey，我是蜡笔熊（labixiong），计算机狂热爱好者。
+Hey，我是肖志勇（ZhiyongXiao），R语言、Python业余爱好者。
 
-双非本科毕业，现居杭州，前端从业者。
+2025年双非本科毕业，待业中……
 
 
-日常出没于[微博](https://weibo.com/u/6324958995)、[知乎](https://www.zhihu.com/people/roselife-4)、[B站](https://space.bilibili.com/687619573)、[Github](https://github.com/labixiong)、[掘金](https://juejin.cn/user/3334169355356045) 等。
+日常出没于[微信读书](https://weread.qq.com/)、[B站](https://space.bilibili.com/1864771987?spm_id_from=333.1387.0.0)、[Github](https://github.com/Zhiyong-Xiao)等。
 
